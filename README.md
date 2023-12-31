@@ -1,9 +1,8 @@
+## Project Overview
 
-# NextJs Course
+This project is my personal endeavor to apply the knowledge gained from learning [Next.js React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/) by Maximilian Schwarzmüller. Unlike the tutorial, I've chosen to develop this project entirely in TypeScript, embracing its strong typing and enhanced developer experience.
 
-This is my personal effort in learning Next.js 14 & React - The Complete Guide by Maximilian Schwarzmüller. This project is developed in typescript instead of javascript (unlike the tutorial). 
-
-Link to the course [Next.js React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/) on Udemy.
+Feel free to explore the codebase, contribute, or provide feedback. Let's continue the learning journey together!
 
 
 
